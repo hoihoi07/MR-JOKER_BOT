@@ -42,7 +42,7 @@ class Config(object):
     HEROKU_APP_NAME = ""
     BOT_USERNAME = ""
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
-    SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
+    SPAMWATCH_SUPPORT_CHAT = "@jetbots_support"
     ARQ_API_KEY = "GBVANC-POIBJH-XAYVHT-XZBPTG-ARQ"
     ARQ_API_URL = "https://thearq.tech/"
     TEMP_DOWNLOAD_DIRECTORY = "./"
